@@ -1,0 +1,5 @@
+![#113](./img/113.png)
+
+```
+<style>*{background:#5776F6;margin:0}*>*{background:#191919;clip-path:polygon(0%42%,100%33%,100%67%,0%58%)
+```
